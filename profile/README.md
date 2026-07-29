@@ -4,7 +4,7 @@ To keep our production code stable, safe, and clean, we follow a standard branch
 ### 1. Work on a Feature Branch
 Always create a new branch locally for the specific feature or fix you are working on
 
-### 2. Commit and Push Early
+### 2. Commit and Push
 Keep your commits descriptive and push your branch to GitHub to back up your progress
 
 ### 3. Open a Pull Request
