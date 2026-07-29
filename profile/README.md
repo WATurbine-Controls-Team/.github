@@ -11,7 +11,7 @@ Keep your commits descriptive and push your branch to GitHub to back up your pro
 When your code is complete, working, and ready to be merged into the main project:
 1. Go to the repository on GitHub.
 2. Click **New Pull Request** from your feature branch into `main`.
-3. Fill out the PR template explaining what you built and how to test it.
+3. Fill out the PR template explaining what you built
 4. Request a review from one of our **Leads**.
 
 ### 4. Review & Merge
