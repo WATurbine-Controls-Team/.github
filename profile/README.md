@@ -1,8 +1,8 @@
 ## Git & Collaboration Workflow
-To keep our production code stable, safe, and clean, we follow a standard branching strategy. **Please do not push directly to the `main` branch.**
+To keep our production code stable, safe, and clean, we follow a standard branching strategy.
 
 ### 1. Work on a Feature Branch
-Always create a new branch locally for the specific feature or fix you are working on
+Always create a new branch for the specific feature or fix you are working on
 
 ### 2. Commit and Push
 Keep your commits descriptive and push your branch to GitHub to back up your progress
