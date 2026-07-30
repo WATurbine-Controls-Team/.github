@@ -24,3 +24,6 @@ When your code is complete, working, and ready to be merged into the main projec
 
 ### 4. Review & Merge
 A Lead will review your code, provide constructive feedback if needed, and merge it into `main`.
+
+### 5. Questions
+If you have questions or uncertainties regarding set up, process, or anything else, feel free to reach out to any of our leads!
